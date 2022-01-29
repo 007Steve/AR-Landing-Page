@@ -1,0 +1,6 @@
+.container {
+  background-color: #d2dff3;
+  background-image: linear-gradient(180deg, #d3e1f7 0%, #fdfeff 100%);
+  min-height: 100vh;
+}
+

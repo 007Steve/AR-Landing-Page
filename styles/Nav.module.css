@@ -1,0 +1,32 @@
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+}
+
+.nav_img {
+    height: 20px;
+}
+
+.nav_linksContainer {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.nav_links {
+    margin: 1rem;
+    font-size: 15px;
+}
+
+.nav_linksBtn {
+    margin: 1rem;
+    background-color: #804bf7;
+    background-image: linear-gradient(180deg, #804bf7 0%, #4f23bf 100%);
+    padding: .50rem;
+    border-radius: 20px;
+    color: white;
+    font-size: 15px;
+    font-weight: 500;
+}
